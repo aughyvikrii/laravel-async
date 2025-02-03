@@ -1,5 +1,5 @@
 {
-    "name": "saeedvaziry/laravel-async",
+    "name": "augvhyvikrii/laravel-async",
     "description": "Laravel Async",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Saeed Vaziry",
             "email": "mr.saeedvaziry@gmail.com"
+        },
+        {
+            "name": "Aughy FJ",
+            "email": "aughyvikrii@gmail.com"
         }
     ],
     "scripts": {
@@ -25,21 +29,21 @@
     },
     "autoload": {
         "psr-4": {
-            "SaeedVaziry\\LaravelAsync\\": "src"
+            "Aughyvikrii\\LaravelAsync\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SaeedVaziry\\LaravelAsync\\Tests\\": "tests/"
+            "Aughyvikrii\\LaravelAsync\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "SaeedVaziry\\LaravelAsync\\LaravelAsyncServiceProvider"
+                "Aughyvikrii\\LaravelAsync\\LaravelAsyncServiceProvider"
             ],
             "aliases": {
-                "AsyncHandler": "SaeedVaziry\\LaravelAsync\\Facades\\AsyncHandler"
+                "AsyncHandler": "Aughyvikrii\\LaravelAsync\\Facades\\AsyncHandler"
             }
         }
     },
