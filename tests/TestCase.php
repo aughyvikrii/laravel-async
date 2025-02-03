@@ -1,9 +1,9 @@
 <?php
 
-namespace SaeedVaziry\LaravelAsync\Tests;
+namespace Aughyvikrii\LaravelAsync\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
-use SaeedVaziry\LaravelAsync\LaravelAsyncServiceProvider;
+use Aughyvikrii\LaravelAsync\LaravelAsyncServiceProvider;
 
 class TestCase extends Orchestra
 {

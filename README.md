@@ -38,7 +38,7 @@ Currently, it only supports Linux and Unix-based operating systems.
 You can install the package via Composer:
 
 ```bash
-composer require /laravel-async
+composer require aughyvikrii/laravel-async
 ```
 
 ## Configuration

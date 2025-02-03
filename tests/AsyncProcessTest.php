@@ -1,8 +1,8 @@
 <?php
 
-namespace SaeedVaziry\LaravelAsync\Tests;
+namespace Aughyvikrii\LaravelAsync\Tests;
 
-use SaeedVaziry\LaravelAsync\Facades\AsyncHandler;
+use Aughyvikrii\LaravelAsync\Facades\AsyncHandler;
 
 class AsyncProcessTest extends TestCase
 {

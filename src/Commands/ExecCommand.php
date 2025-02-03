@@ -1,6 +1,6 @@
 <?php
 
-namespace SaeedVaziry\LaravelAsync\Commands;
+namespace Aughyvikrii\LaravelAsync\Commands;
 
 use Illuminate\Console\Command;
 use Laravel\SerializableClosure\Exceptions\PhpVersionNotSupportedException;

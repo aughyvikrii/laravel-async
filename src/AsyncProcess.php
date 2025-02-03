@@ -1,6 +1,6 @@
 <?php
 
-namespace SaeedVaziry\LaravelAsync;
+namespace Aughyvikrii\LaravelAsync;
 
 use Illuminate\Support\Facades\Process;
 use Laravel\SerializableClosure\Exceptions\PhpVersionNotSupportedException;

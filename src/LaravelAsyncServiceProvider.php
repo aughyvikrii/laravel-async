@@ -1,9 +1,9 @@
 <?php
 
-namespace SaeedVaziry\LaravelAsync;
+namespace Aughyvikrii\LaravelAsync;
 
 use Illuminate\Support\ServiceProvider;
-use SaeedVaziry\LaravelAsync\Commands\ExecCommand;
+use Aughyvikrii\LaravelAsync\Commands\ExecCommand;
 
 class LaravelAsyncServiceProvider extends ServiceProvider
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace SaeedVaziry\LaravelAsync\Fakers;
+namespace Aughyvikrii\LaravelAsync\Fakers;
 
 use Laravel\SerializableClosure\SerializableClosure;
 use PHPUnit\Framework\Assert;

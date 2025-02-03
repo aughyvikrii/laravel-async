@@ -1,10 +1,10 @@
 <?php
 
-namespace SaeedVaziry\LaravelAsync\Facades;
+namespace Aughyvikrii\LaravelAsync\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use SaeedVaziry\LaravelAsync\AsyncProcess;
-use SaeedVaziry\LaravelAsync\Fakers\AsyncProcessFake;
+use Aughyvikrii\LaravelAsync\AsyncProcess;
+use Aughyvikrii\LaravelAsync\Fakers\AsyncProcessFake;
 
 /**
  * @method static void dispatch(mixed $object)
